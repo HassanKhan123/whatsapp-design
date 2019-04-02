@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "khan-whatsapp",
+    "default": "hamararamdan"
+  }
+}
